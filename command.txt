@@ -1,0 +1,13 @@
+ 2 git push -u origin main
+   3 git status
+   4 history
+   5 git add index.html
+   6 git status
+   7 git commit -m "index.html"
+   8 git status
+   9 git branch
+  10 git push -u origin main
+  11 rm index.html
+  12 git status
+  13 git restore index.html
+  14 git branch
